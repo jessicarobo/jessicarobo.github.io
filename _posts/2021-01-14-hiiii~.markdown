@@ -2,10 +2,11 @@
 layout: post
 title:  "Hiiii~"
 date:   2021-01-14 16:23:18 -0500
-tags: [meta]
+description: <3 just a small introductory placeholder post.
 img: pink-heart.png
+tags: [meta]
 ---
-This is the first post in my blog, so that it is not an empty blog with no posts.
+This is the first post in my blog, so that it is not an empty blog with no posts. Thank you for clicking on it! There should be another post by the time I send this to anyone.
 
 Ummm, here's a `code formatting` test I guess. And a link to my [Bandcamp][jess-bandcamp].
 
