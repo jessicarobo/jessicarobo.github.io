@@ -18,7 +18,7 @@ Ummm, here's a `code formatting` test I guess. And a link to my [Bandcamp][jess-
 
 ### And so I can practice markdown, here is the same image again
 
-![The same image]({{site.baseurl}}/assets/img/mac.jpg)
+![The same image]({{site.baseurl}}/assets/img/pinkheart.png)
 
 Okay bye ^O^
 
