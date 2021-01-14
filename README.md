@@ -1,4 +1,4 @@
-# Flexible-Jekyll is a simple and clean theme for Jekyll
+# Flexible-Jekyll is a simple and clean theme for Jekyll, which I have forked and left the rest of this readme intact.
 
 ![](https://github.com/artemsheludko/flexible-jekyll/blob/master/assets/img/promo-img.jpg?raw=true)
 
