@@ -10,8 +10,10 @@ This is the first post in my blog, so that it is not an empty blog with no posts
 
 Ummm, here's a `code formatting` test I guess. And a link to my [Bandcamp][jess-bandcamp].
 
--Oh also some credits: My site icon / profile picture are by CastleNes
--This post's image is from here: https://www.publicdomainpictures.net/en/view-image.php?image=34590&picture=pink-heart
+## Oh also some credits: 
+
+* My site icon / profile picture are by CastleNes
+* This post's image is from here: https://www.publicdomainpictures.net/en/view-image.php?image=34590&picture=pink-heart
 
 Okay bye ^O^
 
