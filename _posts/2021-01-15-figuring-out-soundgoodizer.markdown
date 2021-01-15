@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Figuring out Soundgoodizer"
-date:   2021-01-15 02:15:00 -0500
+date:   2021-01-15 02:44:00 -0500
 description: Soundgoodizer is Image-Line's single-knob mastering plugin, but what does it even do?
 img: soundgood0.png
 fig-caption: Maximus in action
@@ -12,7 +12,7 @@ Okay, so one of my friends on Discord has been asking about Soundgoodizer and YO
 
 ## What are Soundgoodizer and YOUWASHOCK?
 
-Basically, both these plugins are extremely limited versions of the mastering plugin [Maximus](https://www.image-line.com/fl-studio-learning/fl-studio-online-manual/html/plugins/Maximus.htm) from FL Studio. Instead of having full control over Maximus, you're given 4 presets and a single knob to control the amount of "soundgoodizing" (this is actually just a wet/dry so you can have easy NY compression). The lucky thing here is the 4 presets (A,B,C,D) are available in Maximus, so we can see exactly how they work with a copy of FL Studio. 
+Basically, both these plugins are extremely limited versions of the mastering plugin [Maximus](https://www.image-line.com/fl-studio-learning/fl-studio-online-manual/html/plugins/Maximus.htm) from FL Studio. Instead of having full control over Maximus, you're given 4 presets and a single knob to control the amount of "soundgoodizing." The lucky thing here is that the 4 presets (A,B,C,D) are available in Maximus, so we can see exactly how the presets work with a demo of FL Studio. 
 
 But first, let me try to figure out what Maximus even does.
 
@@ -57,24 +57,24 @@ I think this is everybody's preferred preset for mastering. It sounds very bassy
 
 #### Low:
 * Stereo separation: 100% merged
-* Curve shape: Expander
 * Pre-gain: 5.0dB
+* Curve shape: Expander
 * Post-gain: 5.6dB
 * Saturation threshold: 100% Saturation mode A
 * Saturation ceiling: 5.4dB
 
 #### Mid:
 * Stereo separation: 38% separated
-* Curve shape: Soft knee
 * Pre-gain: 6.4dB
+* Curve shape: Soft knee
 * Post-gain: 0dB
 * Saturation threshold: No saturation
 * Saturation ceiling: 0dB
 
 #### High:
 * Stereo separation: Original
-* Curve shape: Bigger expander
 * Pre-gain: 6.9dB
+* Curve shape: Bigger expander
 * Post-gain: 2.9dB
 * Saturation threshold: 100% mode A
 * Saturation ceiling: 0dB
@@ -135,32 +135,32 @@ These settings seem much more mild than the previous presets. I think this prese
 
 #### Low:
 * Stereo separation: 75% merged
-* Curve shape: Slight expander
 * Pre-gain: 8.5dB
+* Curve shape: Slight expander
 * Post-gain: 1.5dB
 * Saturation threshold: 100% Saturation type A
 * Saturation ceiling: 2.2dB
 
 #### Mid:
 * Stereo separation: 35% separated
-* Curve shape: Soft knee
 * Pre-gain: 12.7dB
+* Curve shape: Soft knee
 * Post-gain: 2.8dB
 * Saturation threshold: No saturation
 * Saturation ceiling: 0dB
 
 #### High:
 * Stereo separation: Original
-* Curve shape: Slight expander
 * Pre-gain: 11.3dB
+* Curve shape: Slight expander
 * Post-gain: 2.9dB
 * Saturation threshold: 100% Saturation type A
 * Saturation ceiling: 0dB
 
 #### Master:
 * Stereo separation: Original
-* Curve shape: Soft knee
 * Pre/Post-gain: 0dB
+* Curve shape: Soft knee
 * Saturation threshold: No saturation
 * Saturation ceiling: 0db
 
@@ -177,8 +177,8 @@ I already had a pretty good idea how this preset worked! It appears to be a 1 ba
 
 #### Mid:
 * Stereo separation: Original
-* Curve shape: Soft knee
 * Pre-gain: 14.1dB
+* Curve shape: Soft knee
 * Post-gain: 0dB
 * Saturation threshold: No saturation
 * Saturation ceiling: 0dB
