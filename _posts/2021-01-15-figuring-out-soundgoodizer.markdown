@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Figuring out Soundgoodizer"
-date:   2021-01-15 02:44:00 -0500
+date:   2021-01-15 02:53:00 -0500
 description: Soundgoodizer is Image-Line's single-knob mastering plugin, but what does it even do?
 img: soundgood0.png
 fig-caption: Maximus in action
@@ -48,7 +48,7 @@ The source I am using to tell what a compressor or limiter or expander looks lik
 
 ![Soundgoodizer preset A](/assets/img/soundgoodA.png)
 
-I think this is everybody's preferred preset for mastering. It sounds very bassy to me sometimes. For whatever reason, this applies and expander and saturation to the lows and highs, but not the mids. Maybe a smartypants can explain why that works but I can't.
+I think this is everybody's preferred preset for mastering. It sounds very bassy to me sometimes. For whatever reason, this applies an expander and saturation to the lows and highs, but not the mids. Maybe a smartypants can explain why that works but I can't.
 
 #### Bands:
 * Low: 20-200Hz
