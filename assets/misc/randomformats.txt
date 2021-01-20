@@ -5,14 +5,16 @@ ANSI art
 ASCII art
 AYM
 Deflemask
-DOOOOOOM
+DOOOOOOM (2?)
+HTML5 (2?)
 Famitracker
 Gameboy
 PC Engine
 klystrack
 LGPTracker
 Mario Pants Extended
-32k tracker module
+8k tracker module
+32k tracker module (2?)
 OpenMPT
 Panda Tracker
 NEC PC-x801
