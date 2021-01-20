@@ -1,1 +1,38 @@
-placeholder
+Adlib (opl2 or s3m??)
+Amiga AHX
+Amiga MOD
+ANSI art
+ASCII art
+AYM
+Deflemask
+DOOOOOOM
+Famitracker
+Gameboy
+PC Engine
+klystrack
+LGPTracker
+Mario Pants Extended
+32k tracker module
+OpenMPT
+Panda Tracker
+NEC PC-x801
+NTRQ
+pd
+pixel
+pxtone
+Renoise
+Atari Pokey (1x)
+Megadrive
+Master System
+C64
+snibbetracker
+Super Famicom
+SunVox
+SVG
+Commodore Plus/4
+Atari TIA
+TIC-80
+VCV Rack
+Commodore VIC 20
+Human Voice
+ZX Beep
